@@ -1,0 +1,3 @@
+include ':pagerankcore'
+
+rootProject.name = 'Page-Rank'
